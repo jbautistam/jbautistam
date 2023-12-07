@@ -40,31 +40,17 @@ Software Architect
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jbautistam&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jbautistam&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/jbautistam"><img src="https://github-readme-stats.vercel.app/api?username=jbautistam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jbautistam's GitHub stats" /></a>
-
-<a href="http://www.github.com/jbautistam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jbautistam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/jbautistam"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jbautistam&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/jbautistam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbautistam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jbautistam&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+---
 
 <a href="https://www.github.com/jbautistam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jbautistam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/jbautistam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/jbautistam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
 [![](https://visitcount.itsvg.in/api?id=jbautistam&icon=0&color=0)](https://visitcount.itsvg.in)
